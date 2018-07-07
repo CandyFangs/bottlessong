@@ -8,7 +8,7 @@ class Bottles
     #   '89 bottles of beer on the wall, 89 bottles of beer.
     #   Take one down and pass it around, 88 bottles of beer on the wall!'
     # end
-  end
+    end
   end
 
 end
